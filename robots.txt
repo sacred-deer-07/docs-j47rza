@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-oh7gek.evergrowadvisor.com/sitemap.xml
